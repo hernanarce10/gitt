@@ -1,0 +1,54 @@
+/* selector {
+propiedad: valor;
+propiedad: valor;
+
+}
+
+*/
+
+h2{ color: cadetblue;
+    font-size: 45px;
+    background-color: black;
+    text-align: center;
+    
+
+}
+
+/*selector de clase*/
+.Primero{text-align: right;
+
+
+}
+
+h1{
+    border-top: dashed 8px black;
+    border-right: dashed 8px black;
+    border-bottom: dashed 8px black;
+    border-left: dashed 8px black;
+    /*relleno*/
+
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+    
+    
+    margin-bottom: 50px;
+    
+    margin-top: 50px;
+}
+
+.centrar{text-align: center;}
+
+ul li{
+    list-style-type: none;
+/*le pido a las ul y a las li que estan adentro*/
+
+display: inline-block;
+margin-left: 100px;
+
+
+
+
+
+}
+
