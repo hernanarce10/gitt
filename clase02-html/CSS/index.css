@@ -4,6 +4,10 @@ propiedad: valor;
 }
 */
 
+
+    @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+  
+
 h2{ color: cadetblue;
     font-size: 45px;
     background-color: black;
@@ -42,7 +46,7 @@ ul li{
 /*le pido a las ul y a las li que estan adentro*/
 
 display: inline-block;
-margin: 15px;
+margin: 130px;
 padding: 25px;
 border: 1px solid black;
 background: rgb(223, 201, 201);
