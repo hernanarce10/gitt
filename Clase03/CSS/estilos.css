@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+p {
+  font-size: 20px;
+}
+
+.miparrafo {
+  text-align: center;
+}
+
+footer {
+  text-align: right;
+}
+
+p {
+  color: white;
+}/*# sourceMappingURL=estilos.css.map */
