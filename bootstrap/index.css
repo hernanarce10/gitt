@@ -1,0 +1,35 @@
+
+body
+
+{background: yellow;}
+
+
+
+
+
+
+
+
+
+/* telefonos */
+@media (min-width: 576px) 
+{
+
+body
+{background: blue;}
+
+}
+
+
+/* tablets */
+@media (min-width: 768px) {body
+    {background: blue;}  }
+/* desktops */
+@media (min-width: 992px) { body
+    {background: purple;} }
+/* large desktops */
+@media (min-width: 1200px) { body
+    {background: red;} }
+/* larger desktops */
+@media (min-width: 1400px) {body
+    {background: green;}  }
